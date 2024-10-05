@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding:0px;
+    margin: 0px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+
+canvas{
+    box-shadow:black 20px 10px 50px ;
+    
+    background-image: url(https://blenderartists.org/uploads/default/original/4X/7/e/2/7e2d7bea4ac21388c4a96e1371f375c4ce00094b.jpg);
+}
+
+
